@@ -1,7 +1,7 @@
 ## My Applicatioin
 
 ### App Description
-- Change color of the label after user taps on "Click hto change text color" button
+- Change color of the label after user taps on "Click to change text color" button
 
 ### App Walk-though
 
