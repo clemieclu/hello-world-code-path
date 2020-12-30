@@ -1,13 +1,12 @@
 ## My Applicatioin
 
 ### App Description
-`TODO://` Changes color of the label after user taps on "Click hto change text color" button
+- Change color of the label after user taps on "Click hto change text color" button
 
 ### App Walk-though
 
 <img src="http://g.recordit.co/kM9zLAsfL9.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
